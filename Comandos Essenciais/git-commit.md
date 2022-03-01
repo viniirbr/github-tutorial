@@ -1,3 +1,3 @@
 #git commit
 
-##usage
+##uso
