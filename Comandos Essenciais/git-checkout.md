@@ -8,7 +8,7 @@ O comando de _checkout_ será usado para trocar de _branch_.
 
 
 ## Comandos relacionados
-### [git branch](https://github.com/viniirbr/github-tutorial/blob/main/Comandos%20Essenciais/git-checkout.md)
+### [git branch](https://github.com/viniirbr/github-tutorial/blob/main/Comandos%20Essenciais/git-branch.md)
 Para alterar a branch em que o usuário está navegando utilize o comando `git checkout <branch>`
 ### [git merge](https://github.com/viniirbr/github-tutorial/blob/main/Comandos%20Essenciais/git-merge.md)
 Para trazer os commits de uma branch para outra faça um checkout para a branch que irá receber os commits e dê um `git merge <branch>`, onde 'branch' é de onde os commits virão
